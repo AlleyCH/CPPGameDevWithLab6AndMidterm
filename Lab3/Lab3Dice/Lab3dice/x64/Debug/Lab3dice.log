@@ -1,0 +1,3 @@
+﻿  Dice.cpp
+C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab3\Lab3Dice\Lab3dice\Dice.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3dice.vcxproj -> C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab3\Lab3Dice\Lab3dice\x64\Debug\Lab3dice.exe

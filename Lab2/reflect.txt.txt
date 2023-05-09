@@ -1,0 +1,26 @@
+Learned/ still learning:
+I had to learn recursion - which is when a method calls itself.
+I had to review inductiive thinking because it talks about base cases. 
+Had to review on loops for the non reciursion part. 
+I had to learn what to put in what files. Such as cpp files are implmentation of the header file Tower.
+So basically I only defined things in the header file. 
+
+
+Difficulties:
+I found it difficult to apply the logic of recursion into the question. Like I understood that definition but not the logic 
+I didn't understand the advantage of a method being able to call itself within itself.
+I'm still having trouble connecting factorials to recursion. 
+I'm still having a little bit of trouble understanding the recursion formula (n-1).
+
+The non recursion part also confused me because I had to kind of undo what I just learned. 
+I tried to use a for loop to loop the algrothm, but it won't even get past the condition I set of it. 
+I also tried an if statement for it which means if it's an even number move and print the first peg to the 2nd peg.
+Inconculstion the math/logic is something I have to work through.
+ALlthough I found it very helpful when putting comments in my code to organise myself. 
+
+
+Comparing iteritive and recursive :
+Recursive is a loop but not in a way like forloop or do while loope etc... It calls itself which can make it an infinate loop 
+a return in it.
+
+

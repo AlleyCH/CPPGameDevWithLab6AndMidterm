@@ -1,0 +1,5 @@
+﻿  Rational.cpp
+C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab5\Lab5\Rational.cpp(27,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab5\Lab5\Rational.cpp(27,10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab5\Lab5\Rational.cpp(97,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab5.vcxproj -> C:\Users\Owner\OneDrive\Documents\CPPGameDev\Lab5\Lab5\x64\Debug\Lab5.exe
